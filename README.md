@@ -1,7 +1,8 @@
 # Projeto_01LandingPage
 Projeto Front-End 
 Utilização Css, 
-Position,Dysplay Inline-Block
+Position,Display Inline-Block
 Imagens
 Banner
 Formulário Básico
+Footer
